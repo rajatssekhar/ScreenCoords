@@ -1,0 +1,313 @@
+TScreenCoord
+v7
+r0
+t318359958.356062
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/Info.plist" ScreenCoord-Info.plist
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/ScreenCoord/MainWindow.xib"
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/ScreenCoord/ScreenCoordViewController.xib"
+cCpResource build/Debug-iphonesimulator/ScreenCoord.app/redball.jpg redball.jpg
+cCpResource build/Debug-iphonesimulator/ScreenCoord.app/ball_red.png ball_red.png
+cCpResource build/Debug-iphonesimulator/ScreenCoord.app/ball_green.png ball_green.png
+cProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenCoord_Prefix-bddzdtkgxeozkvaigdcpwcqmnpoz/ScreenCoord_Prefix.pch.gch ScreenCoord_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoordAppDelegate.o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoordViewController.o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord" normal i386
+cGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app.dSYM" "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord"
+cTouch "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordAppDelegate.h
+c000000004D3F7A7600000000000001FA
+t1296005750
+s506
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordAppDelegate.m
+c000000004D3F7A760000000000000AAC
+t1296005750
+s2732
+i"ScreenCoordAppDelegate.h"
+i"ScreenCoordViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordViewController.h
+c000000004D3F887300000000000000FD
+t1296009331
+s253
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordViewController.m
+c000000004D3F8BEC00000000000009D2
+t1296010220
+s2514
+i"ScreenCoordViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/MainWindow.xib
+c000000004D3F7A760000000000004E59
+t1296005750
+s20057
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/ScreenCoordViewController.xib
+c000000004D3F7A760000000000001A55
+t1296005750
+s6741
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/ScreenCoord_Prefix.pch
+c000000004D3F7A7600000000000000BF
+t1296005750
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/ball_green.png
+c000000004D3F8A4D0000000000002B98
+t1296009805
+s11160
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/ball_red.png
+c000000004D3F8A4B000000000000283A
+t1296009803
+s10298
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app
+t1296010222
+s340
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app.dSYM
+t1296010222
+s102
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/Info.plist
+t1296005842
+s607
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/MainWindow.nib
+t1296005842
+s1131
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/PkgInfo
+t1296005842
+s8
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord
+t1296010222
+s18412
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoordViewController.nib
+t1296005842
+s795
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ball_green.png
+t1296010023
+s11160
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ball_red.png
+t1296010023
+s10298
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/redball.jpg
+t1296009335
+s20445
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoord.LinkFileList
+c000000004D3F7AD200000000000001CB
+t1296005842
+s459
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoordAppDelegate.o
+t1296009335
+s51144
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoordViewController.o
+t1296010222
+s48612
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/main.o
+t1296005843
+s6324
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/main.m
+c000000004D3F7A760000000000000170
+t1296005750
+s368
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/ScreenCoord/redball.jpg
+c000000004D3F86CD0000000000004FDD
+t1296008909
+s20445
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenCoord_Prefix-bddzdtkgxeozkvaigdcpwcqmnpoz/ScreenCoord_Prefix.pch.gch
+t1296005843
+s15453392
+
+NScreenCoord-Info.plist
+c000000004D3F7A76000000000000038D
+t1296005750
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318359958#318359958#0(0"0(0#1#0"8606786560#0"0#
+
+CCompileC build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoordAppDelegate.o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317702135.680491
+e317702135.760769
+r1
+xCompileC
+xbuild/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoordAppDelegate.o
+x/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordAppDelegate.m317702135#317702135#0(0"0(0#0#81"/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordAppDelegate.m8604357088#2170"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenCoord_Prefix-bddzdtkgxeozkvaigdcpwcqmnpoz/ScreenCoord_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordAppDelegate.m" -o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoordAppDelegate.o"0#
+
+CCompileC build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoordViewController.o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317703022.680255
+e317703022.813767
+r1
+xCompileC
+xbuild/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoordViewController.o
+x/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordViewController.m317703022#317703022#0(0"0(0#0#84"/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordViewController.m8613714208#2176"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenCoord_Prefix-bddzdtkgxeozkvaigdcpwcqmnpoz/ScreenCoord_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/ScreenCoord/Classes/ScreenCoordViewController.m" -o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoordViewController.o"0#
+
+CCompileC build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317698643.651722
+e317698643.761379
+r1
+xCompileC
+xbuild/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/iPhone Apps/ScreenCoord/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/sathish/Documents/iPhone Apps/ScreenCoord/main.m317698643#317698643#0(0"0(0#0#55"/Users/sathish/Documents/iPhone Apps/ScreenCoord/main.m8602816160#2126"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenCoord_Prefix-bddzdtkgxeozkvaigdcpwcqmnpoz/ScreenCoord_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/ScreenCoord/main.m" -o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/ScreenCoord/MainWindow.xib"
+s317698642.177676
+e317698642.652897
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Apps/ScreenCoord/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317698642#317698642#0(0"0(0#0#63"/Users/sathish/Documents/iPhone Apps/ScreenCoord/MainWindow.xib8602963744#610"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/MainWindow.nib" "/Users/sathish/Documents/iPhone Apps/ScreenCoord/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/ScreenCoord/ScreenCoordViewController.xib"
+s317698642.178499
+e317698642.620452
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Apps/ScreenCoord/ScreenCoordViewController.xib
+lSLF07#2@40"CompileXIB ScreenCoordViewController.xib317698642#317698642#0(0"0(0#0#78"/Users/sathish/Documents/iPhone Apps/ScreenCoord/ScreenCoordViewController.xib8601198688#640"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoordViewController.nib" "/Users/sathish/Documents/iPhone Apps/ScreenCoord/ScreenCoordViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/ScreenCoord.app/ball_green.png ball_green.png
+s317702823.829300
+e317702823.838976
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ScreenCoord.app/ball_green.png
+xball_green.png
+lSLF07#2@19"Copy ball_green.png317702823#317702823#0(0"0(0#0#63"/Users/sathish/Documents/iPhone Apps/ScreenCoord/ball_green.png8606134464#512"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sathish/Documents/iPhone Apps/ScreenCoord/ball_green.png" "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app"0#
+
+CCpResource build/Debug-iphonesimulator/ScreenCoord.app/ball_red.png ball_red.png
+s317702823.828608
+e317702823.840124
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ScreenCoord.app/ball_red.png
+xball_red.png
+lSLF07#2@17"Copy ball_red.png317702823#317702823#0(0"0(0#0#61"/Users/sathish/Documents/iPhone Apps/ScreenCoord/ball_red.png8606376960#510"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sathish/Documents/iPhone Apps/ScreenCoord/ball_red.png" "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app"0#
+
+CCpResource build/Debug-iphonesimulator/ScreenCoord.app/redball.jpg redball.jpg
+s317702135.644138
+e317702135.680112
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ScreenCoord.app/redball.jpg
+xredball.jpg
+lSLF07#2@16"Copy redball.jpg317702135#317702135#0(0"0(0#0#60"/Users/sathish/Documents/iPhone Apps/ScreenCoord/redball.jpg8605842560#509"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sathish/Documents/iPhone Apps/ScreenCoord/redball.jpg" "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app"0#
+
+CGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app.dSYM" "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord"
+s317703022.846215
+e317703022.862317
+r1
+xGenerateDSYMFile
+x/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app.dSYM
+x/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/ScreenCoord.app.dSYM build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord317703022#317703022#0(0"0(0#0#104"/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord8613847520#431"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord" -o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app.dSYM"0#
+
+CLd "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord" normal i386
+s317703022.813859
+e317703022.846107
+r1
+xLd
+x/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord
+xnormal
+xi386
+lSLF07#2@109"Link /Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord317703022#317703022#0(0"0(0#0#0"8613588736#980"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator" "-F/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator" -filelist "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/Objects-normal/i386/ScreenCoord.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/ScreenCoord"0#
+
+CProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/Info.plist" ScreenCoord-Info.plist
+s317698642.140814
+e317698642.177582
+r1
+xProcessInfoPlistFile
+x/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/Info.plist
+xScreenCoord-Info.plist
+lSLF07#2@30"Process ScreenCoord-Info.plist317698642#317698642#0(0"0(0#0#71"/Users/sathish/Documents/iPhone Apps/ScreenCoord/ScreenCoord-Info.plist3414980240387304960#527"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ScreenCoord-Info.plist -genpkginfo "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app/Info.plist"0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenCoord_Prefix-bddzdtkgxeozkvaigdcpwcqmnpoz/ScreenCoord_Prefix.pch.gch ScreenCoord_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317698642.653055
+e317698643.651503
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenCoord_Prefix-bddzdtkgxeozkvaigdcpwcqmnpoz/ScreenCoord_Prefix.pch.gch
+xScreenCoord_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile ScreenCoord_Prefix.pch317698642#317698643#0(0"0(0#0#71"/Users/sathish/Documents/iPhone Apps/ScreenCoord/ScreenCoord_Prefix.pch8599525984#2002"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/ScreenCoord-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/ScreenCoord.build/Debug-iphonesimulator/ScreenCoord.build/DerivedSources" -c "/Users/sathish/Documents/iPhone Apps/ScreenCoord/ScreenCoord_Prefix.pch" -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScreenCoord_Prefix-bddzdtkgxeozkvaigdcpwcqmnpoz/ScreenCoord_Prefix.pch.gch0#
+
+CTouch "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app"
+s317703022.862400
+e317703022.864926
+r1
+xTouch
+x/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app
+lSLF07#2@98"Touch /Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app317703022#317703022#0(0"0(0#0#0"8614217504#306"    cd "/Users/sathish/Documents/iPhone Apps/ScreenCoord"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sathish/Documents/iPhone Apps/ScreenCoord/build/Debug-iphonesimulator/ScreenCoord.app"0#
+
